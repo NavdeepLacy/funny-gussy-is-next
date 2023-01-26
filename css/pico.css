@@ -1408,6 +1408,10 @@ textarea {
   margin-bottom: var(--spacing);
 }
 
+.centertext {
+  text-align: center;
+}
+
 select::-ms-expand {
   border: 0;
   background-color: transparent;
